@@ -1,5 +1,5 @@
 # test
-This repo is for only testing purposes
+This repo is ONLY for testing purposes
 ```sh
 $ run ./test/
 ```
